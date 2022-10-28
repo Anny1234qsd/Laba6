@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laba5.13isp914</string>
+    <string name="Txt1">myText</string>
+    <string name="headerTitle">BMC Sales</string>
+    <string name="Authorization">Авторизация</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="ForgetPass">Забыли пароль?</string>
+    <string name="Enter">Войти</string>
+    <string name="NotAccYet">Еще нет аккаунта?</string>
+    <string name="Reg">Регистрация</string>
+</resources>
